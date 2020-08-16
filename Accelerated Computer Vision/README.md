@@ -6,8 +6,8 @@ Working through the Amazon Machine Learning Courses
 
 
 ## [Accelerated Computer Vision]()
-[Amazon Computer Vision Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv)
-[Accelerated Computer Vision Course Videos](https://www.youtube.com/watch?v=_6CFi2CO2AI&list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
+- [Amazon Computer Vision Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv)
+- [Accelerated Computer Vision Course Videos](https://www.youtube.com/watch?v=_6CFi2CO2AI&list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
 
  
  - [x] [Chapter 1 - The Machine Learning Landscape](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%201%20-%20The%20Machine%20Learning%20Landscape)
