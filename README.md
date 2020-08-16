@@ -17,12 +17,12 @@ Amazon has released the first three courses from their internal machine learning
 
 ## [Accelerated Tabular Data](https://github.com/Jadams29/Amazon-Machine-Learning-Course/tree/master/Accelerated%20Tabular%20Data)
 - [Amazon Tabular Data Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab)
-- [Accelerated Tabular Data Course Videos](https://www.youtube.com/watch?v=kj-sPC6pai4&list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
+- [Accelerated Tabular Data Course Videos](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
  
 ## [Accelerated Natural Language Processing](https://github.com/Jadams29/Amazon-Machine-Learning-Course/tree/master/Accelerated%20Natural%20Language%20Processing)
 - [Amazon Natural Language Processing Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
-- [Accelerated Natural Language Processing Course Videos](https://www.youtube.com/watch?v=0FXKbEgz-uU&list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
+- [Accelerated Natural Language Processing Course Videos](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
 
 ## [Accelerated Computer Vision](https://github.com/Jadams29/Amazon-Machine-Learning-Course/tree/master/Accelerated%20Computer%20Vision)
 - [Amazon Computer Vision Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv)
-- [Accelerated Computer Vision Course Videos](https://www.youtube.com/watch?v=_6CFi2CO2AI&list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
+- [Accelerated Computer Vision Course Videos](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)

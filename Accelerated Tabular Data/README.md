@@ -15,7 +15,7 @@ using Tensorflow and PyTorch as I have time.
 
 ## [Accelerated Tabular Data]()
 - [Amazon Tabular Data Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab)
-- [Accelerated Tabular Data Course Videos](https://www.youtube.com/watch?v=kj-sPC6pai4&list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
+- [Accelerated Tabular Data Course Videos](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
 
 &nbsp; 
 

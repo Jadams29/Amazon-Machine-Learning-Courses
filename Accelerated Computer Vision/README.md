@@ -16,7 +16,7 @@ using Tensorflow and PyTorch as I have time.
 
 ## [Accelerated Computer Vision]()
 - [Amazon Computer Vision Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv)
-- [Accelerated Computer Vision Course Videos](https://www.youtube.com/watch?v=_6CFi2CO2AI&list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
+- [Accelerated Computer Vision Course Videos](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
 
 &nbsp; 
 

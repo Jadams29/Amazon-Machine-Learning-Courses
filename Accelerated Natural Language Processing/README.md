@@ -16,7 +16,7 @@ using Tensorflow and PyTorch as I have time.
 
 ## [Accelerated Natural Language Processing]()
 - [Amazon Natural Language Processing Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
-- [Accelerated Natural Language Processing Course Videos](https://www.youtube.com/watch?v=0FXKbEgz-uU&list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
+- [Accelerated Natural Language Processing Course Videos](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
 
 &nbsp; 
 
