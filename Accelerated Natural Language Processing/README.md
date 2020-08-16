@@ -5,8 +5,11 @@
 Working through the Amazon Machine Learning Courses
 
 
- ## Accelerated Natural Language Processing
- 
+## [Accelerated Natural Language Processing]()
+[Amazon Natural Language Processing Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
+[Accelerated Natural Language Processing Course Videos](https://www.youtube.com/watch?v=0FXKbEgz-uU&list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
+
+
 - [x] [Chapter 10 - Introduction to Artificial Neural Networks with Keras](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%2010%20-%20Introduction%20to%20Artificial%20Neural%20Networks%20with%20Keras)
 - [x] [Chapter 11 - Training Deep Neural Networks](https://github.com/Jadams29/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow-2nd/tree/master/Chapter%2011%20-%20Training%20Deep%20Neural%20Networks)
 
