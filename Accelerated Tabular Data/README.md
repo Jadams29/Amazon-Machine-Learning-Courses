@@ -3,6 +3,14 @@
 # Amazon-Machine-Learning-Course
 Working through the Amazon Machine Learning Courses
 
+&nbsp; 
+
+&nbsp;
+
+![Amazon Machine Learning University Icon](https://github.com/Jadams29/Amazon-Machine-Learning-Courses/blob/master/misc/Icons/MLU_Logo.png)
+
+[Image Source](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
+&nbsp;
 
 ## [Accelerated Tabular Data]()
 - [Amazon Tabular Data Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab)
