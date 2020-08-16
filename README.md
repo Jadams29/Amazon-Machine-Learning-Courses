@@ -13,9 +13,6 @@ Amazon has released the first three courses from their internal machine learning
 ![Amazon Machine Learning University Icon](https://github.com/Jadams29/Amazon-Machine-Learning-Courses/blob/master/misc/Icons/MLU_Logo.png)
 
 [Image Source](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)
-
-&nbsp;
-
 &nbsp;
 
 ## [Accelerated Tabular Data](https://github.com/Jadams29/Amazon-Machine-Learning-Course/tree/master/Accelerated%20Tabular%20Data)
