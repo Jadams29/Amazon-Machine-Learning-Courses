@@ -2,7 +2,8 @@
 [Image Source](https://www.forbes.com/sites/bernardmarr/2019/06/03/5-amazing-examples-of-natural-language-processing-nlp-in-practice/#6dcffc4a1b30)
 
 # Amazon-Machine-Learning-Course
-Working through the Amazon Machine Learning Courses
+Working through the Amazon Machine Learning Course - Accelerated Natural Language Processing. I will implement the course notebooks
+using Tensorflow and PyTorch as I have time.
 
 &nbsp; 
 
@@ -18,8 +19,6 @@ Working through the Amazon Machine Learning Courses
 - [Accelerated Natural Language Processing Course Videos](https://www.youtube.com/watch?v=0FXKbEgz-uU&list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
 
 &nbsp; 
-
-&nbsp;
 
 ## Machine Learning University Accelerated Natural Language Processing Class
 

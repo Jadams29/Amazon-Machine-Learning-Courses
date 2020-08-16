@@ -17,7 +17,7 @@ Amazon has released the first three courses from their internal machine learning
 
 ## [Accelerated Tabular Data](https://github.com/Jadams29/Amazon-Machine-Learning-Course/tree/master/Accelerated%20Tabular%20Data)
 - [Amazon Tabular Data Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab)
-- [Accelerated Tabular Data Cource Videos](https://www.youtube.com/watch?v=kj-sPC6pai4&list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
+- [Accelerated Tabular Data Course Videos](https://www.youtube.com/watch?v=kj-sPC6pai4&list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
  
 ## [Accelerated Natural Language Processing](https://github.com/Jadams29/Amazon-Machine-Learning-Course/tree/master/Accelerated%20Natural%20Language%20Processing)
 - [Amazon Natural Language Processing Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp)

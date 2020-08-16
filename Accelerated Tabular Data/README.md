@@ -1,7 +1,8 @@
 ![Amazon Logo from https://paleospirit.com/wp-content/uploads/2015/01/Amazon-icon.jpeg](https://paleospirit.com/wp-content/uploads/2015/01/Amazon-icon.jpeg)
 
 # Amazon-Machine-Learning-Course
-Working through the Amazon Machine Learning Courses
+Working through the Amazon Machine Learning Course - Accelerated Tabular Data. I will implement the course notebooks
+using Tensorflow and PyTorch as I have time.
 
 &nbsp; 
 
@@ -14,11 +15,9 @@ Working through the Amazon Machine Learning Courses
 
 ## [Accelerated Tabular Data]()
 - [Amazon Tabular Data Repo](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab)
-- [Accelerated Tabular Data Cource Videos](https://www.youtube.com/watch?v=kj-sPC6pai4&list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
+- [Accelerated Tabular Data Course Videos](https://www.youtube.com/watch?v=kj-sPC6pai4&list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
 
 &nbsp; 
-
-&nbsp;
 
 ## Machine Learning University Accelerated Tabular Data Class
 

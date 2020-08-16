@@ -2,7 +2,8 @@
 [Image Source](https://i.imgur.com/V6uxcpY.jpg)
 
 # Amazon-Machine-Learning-Course
-Working through the Amazon Machine Learning Courses
+Working through the Amazon Machine Learning Course - Accelerated Computer Vision. I will implement the course notebooks
+using Tensorflow and PyTorch as I have time.
 
 &nbsp; 
 
@@ -18,8 +19,6 @@ Working through the Amazon Machine Learning Courses
 - [Accelerated Computer Vision Course Videos](https://www.youtube.com/watch?v=_6CFi2CO2AI&list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
 
 &nbsp; 
-
-&nbsp;
 
 ## Machine Learning University Accelerated Computer Vision Class
 
