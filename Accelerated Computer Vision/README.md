@@ -1,4 +1,5 @@
-![Amazon Logo from https://paleospirit.com/wp-content/uploads/2015/01/Amazon-icon.jpeg](https://paleospirit.com/wp-content/uploads/2015/01/Amazon-icon.jpeg)
+![Computer Vision Icon from https://www.kdnuggets.com/wp-content/uploads/6-steps-cv-tf-js-0.jpg](https://www.kdnuggets.com/wp-content/uploads/6-steps-cv-tf-js-0.jpg)
+[Image Source](https://i.imgur.com/V6uxcpY.jpg)
 
 # Amazon-Machine-Learning-Course
 Working through the Amazon Machine Learning Courses
